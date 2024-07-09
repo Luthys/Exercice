@@ -11,26 +11,12 @@
       <nav>
         <ul>
           <li><a href="/">Accueil</a></li>
-          <li><a href="/about/">À propos</a></li>
-          <li><a href="/contact/">Contact</a></li>
           <li><a href="/exercises/">Exercices</a></li>
         </ul>
       </nav>
     </header>
     <main>
       {{ content }}
-      <h2>Liste des exercices</h2>
-      <ul>
-        {% for exercise in site.data.exercises %}
-          <li>
-            <strong>{{ exercise.title }}</strong> - {{ exercise.level }}
-            <br>
-            {{ exercise.description }}
-            <br>
-            <a href="{{ exercise.url }}">Voir l'exercice</a>
-          </li>
-        {% endfor %}
-      </ul>
     </main>
   </body>
 </html>
