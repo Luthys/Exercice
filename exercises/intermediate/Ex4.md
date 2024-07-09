@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intermédiaire - Exercice 4
+---
+
 ### Exercice 4 : Compter les voyelles
 Créez un programme qui demande à l'utilisateur de saisir une phrase et compte le nombre de voyelles dans la phrase.
 

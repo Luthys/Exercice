@@ -1,3 +1,8 @@
+---
+layout: default
+title: Débutant - Exercice 3
+---
+
 ### Exercice 3 : Trouver le nombre maximum dans un tableau
 Créez un programme qui trouve et affiche le nombre maximum dans un tableau donné.
 

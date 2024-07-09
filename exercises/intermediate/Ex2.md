@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intermédiaire - Exercice 2
+---
+
 ### Exercice 2 : Addition de deux nombres
 Créez un programme qui demande à l'utilisateur de saisir deux nombres et affiche leur somme.
 

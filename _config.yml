@@ -1,2 +1,11 @@
-markdown: kramdown
 theme: minima
+plugins:
+  - jekyll-data
+
+markdown: kramdown
+
+
+# Config pour GitHub Pages
+github:
+  is_project_page: true
+  url: "https://luthys.github.io/Exercice/"

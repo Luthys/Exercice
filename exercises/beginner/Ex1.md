@@ -1,3 +1,8 @@
+---
+layout: default
+title: Débutant - Exercice 1
+---
+
 ### Exercice 1 : Afficher les nombres pairs de 1 à 20
 Créez un programme qui affiche tous les nombres pairs de 1 à 20.
 

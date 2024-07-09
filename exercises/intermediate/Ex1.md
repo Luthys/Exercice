@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intermédiaire - Exercice 1
+---
+
 ## Exercice 1 : Afficher un message
 Créez un programme qui demande à l'utilisateur de saisir son nom et affiche un message de salutation.
 

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intermédiaire - Exercice 7
+---
+
 ### Exercice 8 : Vérifier un palindrome
 Créez un programme qui demande à l'utilisateur de saisir une chaîne de caractères et vérifie si elle est un palindrome.
 

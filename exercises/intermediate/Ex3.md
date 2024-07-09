@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intermédiaire - Exercice 3
+---
+
 ### Exercice 3 : Vérifier la parité d'un nombre
 Créez un programme qui demande à l'utilisateur de saisir un nombre et vérifie s'il est pair ou impair.
 

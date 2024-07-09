@@ -1,3 +1,8 @@
+---
+layout: default
+title: Débutant - Exercice 4
+---
+
 ### Exercice 4 : Inverser un tableau
 Créez un programme qui inverse un tableau donné et affiche le tableau inversé.
 

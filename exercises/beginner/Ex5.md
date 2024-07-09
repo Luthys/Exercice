@@ -1,3 +1,8 @@
+---
+layout: default
+title: Débutant - Exercice 5
+---
+
 ### Exercice 5 : Compter les occurrences d'un élément dans un tableau
 Créez un programme qui compte et affiche le nombre d'occurrences d'un élément donné dans un tableau.
 

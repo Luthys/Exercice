@@ -1,3 +1,8 @@
+---
+layout: default
+title: Intermédiaire - Exercice 5
+---
+
 ### Exercice 5 : Inverser une chaîne de caractères
 Créez un programme qui demande à l'utilisateur de saisir une chaîne de caractères et affiche la chaîne inversée.
 
